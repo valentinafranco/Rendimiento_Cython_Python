@@ -18,6 +18,6 @@ La siguiente grafica muestra una comparación de tiempo con un **SpeedUp de 81.7
 
 ![grafica](https://user-images.githubusercontent.com/80859404/117225761-b2d86780-add8-11eb-9fbb-de82511c281b.png)
 
-**Tiempo Python:** 14.806356430053711
+**Tiempo Python:** 14.806356430053711s
 
-**Tiempo Cython:** 0.1810474395751953
+**Tiempo Cython:** 0.1810474395751953s
