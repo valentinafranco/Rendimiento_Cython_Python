@@ -14,10 +14,10 @@
 
 # Taller Rendimiento Cython/Python 
 Grafica para medir el rendimiento de una función matematica entre Cython y Python.
-La siguiente grafica muestra una comparación de tiempo con un **SpeedUp de 84.775**:
+La siguiente grafica muestra una comparación de tiempo con un **SpeedUp de 81.782**:
 
-![grafica](https://user-images.githubusercontent.com/80859404/117225296-9daf0900-add7-11eb-9108-91468d39439a.png)
+![grafica](https://user-images.githubusercontent.com/80859404/117225761-b2d86780-add8-11eb-9fbb-de82511c281b.png)
 
-**Tiempo Python:** 14.13805627822876
+**Tiempo Python:** 14.806356430053711
 
-**Tiempo Cython:** 0.16677093505859375
+**Tiempo Cython:** 0.1810474395751953
